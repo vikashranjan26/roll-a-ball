@@ -1,2 +1,2 @@
 # roll-a-ball
-assignment
+rolling a ball in a tub under unity game develoment enviornment in windows operating system
